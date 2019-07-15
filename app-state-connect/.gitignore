@@ -10,7 +10,7 @@ aws.yml
 
 # ignore the webstorm ide dir
 .idea/
-
+.travis.yml
 ### Vim ###
 # swap
 [._]*.s[a-w][a-z]
