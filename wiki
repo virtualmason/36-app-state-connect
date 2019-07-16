@@ -1,0 +1,1 @@
+Redux is a fun way to control your applications state. It allows you reduce side effects and know where your state is. The state can not be accessed directly but needs to be done deleberatly. Redux is JavaScript and more of a pattern then anything else. It inclueds use of reducers which is javascript, functions and objects.
